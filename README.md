@@ -88,10 +88,10 @@ print("Migration Complete")
 
 After you run the file, you'll see the converted files are saved in `mdfiles/` directory. Let's see.
 
-![img](./migrate2.png)
+![img](./images/migrate2.png)
 
 Now let's look at one of the files if it's correctly converted.
 
-![img](./migrate3.png)
+![img](./images/migrate3.png)
 
 Great. Everything seems good.
