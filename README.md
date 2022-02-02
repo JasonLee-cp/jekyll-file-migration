@@ -23,7 +23,7 @@ So I wrote a python program that automatically converts `.cpp` file into the cor
 
 Here's a list of `.cpp` files that I want to migrate.
 
-![img](../../assets/images/Python/migrate.png)
+![img](./images/migrate.png)
 
 Below is the `migrate.py` which does all the job. Let's look inside.
 
@@ -88,10 +88,10 @@ print("Migration Complete")
 
 After you run the file, you'll see the converted files are saved in `mdfiles/` directory. Let's see.
 
-![img](../../assets/images/Python/migrate2.png)
+![img](./migrate2.png)
 
 Now let's look at one of the files if it's correctly converted.
 
-![img](../../assets/images/Python/migrate3.png)
+![img](./migrate3.png)
 
 Great. Everything seems good.
